@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/DXApplication191/Form1.cs) (VB: [Form1.vb](./VB/DXApplication191/Form1.vb))
+* [Program.cs](./CS/DXApplication191/Program.cs) (VB: [Program.vb](./VB/DXApplication191/Program.vb))
+* **[SkinButtonHelper.cs](./CS/DXApplication191/SkinButtonHelper.cs) (VB: [SkinButtonHelper.vb](./VB/DXApplication191/SkinButtonHelper.vb))**
+<!-- default file list end -->
 # Skins - How to manually paint a button by using a skin element and internal classes
 
 
